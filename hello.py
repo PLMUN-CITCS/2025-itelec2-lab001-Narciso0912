@@ -1,4 +1,4 @@
 print("Hello world!")
 print("Name: Narciso Ybiosa")
-print("Course: BSIT")
-print("Interests in programming: making website using language")
+print("Course: BS Information Technology")
+print("Interests in programming: making a robot with code")
